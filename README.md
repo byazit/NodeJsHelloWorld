@@ -1,2 +1,2 @@
 # NodeJsHelloWorld
-Jenkins tesing deployment.
+Jenkins tesing deployment. It should auto pull.
